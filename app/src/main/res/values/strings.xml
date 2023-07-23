@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Phone New</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="first_fragment">Smartphones List</string>
+    <string name="second_fragment">Smartphone Detail</string>
+    <string name="photo_item">Foto</string>
+    <string name="image_description">Descripcion imagen</string>
+    <string name="test_text">TextView</string>
+    <string name="send_email">Enviar Correo</string>
+</resources>
